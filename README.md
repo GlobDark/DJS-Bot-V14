@@ -8,7 +8,7 @@
 * Run `npm i` once in Terminal to install Dependencies
 * Run `node index.js` to ***RUN*** the bot.
 
-##Config file:
+## Config file:
 
 ```js
 module.exports = {
